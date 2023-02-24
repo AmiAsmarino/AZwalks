@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnLo0/V3PulF9r1XPtrwi1QaFpg1jsy0I8eVFrpUYoC3nQFR43ggG5KlZwnWt0SqC2IL+yLgFn+vUCfYcvef1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amelo\\Desktop\\Programming\\Code\\AZwalks\\AZWalks\\AZWalks.API\\AZWalks.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amelo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\amelo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\amelo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\amelo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\amelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\amelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
