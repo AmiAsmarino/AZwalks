@@ -1,4 +1,5 @@
 using AZWalks.API.Data;
+using AZWalks.API.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,8 @@ builder.Services.AddDbContext<AZWalksDBcontext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("AZWalks"));
 });
+builder.Services.AddScoped<IRegionRepository, RegionRepository>();
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
 
 var app = builder.Build();
 
